@@ -4,7 +4,7 @@ I am `khyernet`, a 15 year old software programmer / software designer. I only d
 
 I am currently learning basic html/css/js and putting my progress on [github pages](https://osch2008.github.io), and I want to learn a javascript framework soon.
 
-I am also a contributor to [https://emanfm.isso.moe](https://emanfm.isso.moe), a "radio station" for the ULTRAKILL youtuber [Emancipation](https://www.youtube.com/@emancipationvevo), since I worked on 99% of the frontend.
+I am also a contributor to [emanfm.isso.moe](https://emanfm.isso.moe), a "radio station" for the ULTRAKILL youtuber [Emancipation](https://www.youtube.com/@emancipationvevo), since I worked on 99% of the frontend.
 
 Other than learning javascript, I am not actively working on any projects right now, but I will soon make my github pages site actually useful, such as displaying my projects. In the future, I am thinking about getting my own aws cloud server, and my own domain.
 
