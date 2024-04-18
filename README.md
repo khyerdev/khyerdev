@@ -2,11 +2,9 @@
 ### Hi there 👋
 I am `khyernet`, a 15 year old software programmer / software designer. I only do these things for fun right now. I am taking AP Computer Science Principles in school right now, but I am also teaching myself various other stuff that i shouldn't even learn until college. Things like Rust, Arch Linux, Neovim, and other stuff. I have been doing this stuff since 2021.
 
-I am currently learning basic html/css/js and putting my progress on [github pages](https://osch2008.github.io), and I want to learn a javascript framework soon.
-
 I am also a contributor to [emanfm.isso.moe](https://emanfm.isso.moe), a "radio station" for the ULTRAKILL youtuber [Emancipation](https://www.youtube.com/@emancipationvevo), since I worked on 99% of the frontend.
 
-Other than learning javascript, I am not actively working on any projects right now, but I will soon make my github pages site actually useful, such as displaying my projects. In the future, I am thinking about getting my own aws cloud server, and my own domain.
+I am currently working on [tcobalt](https://github.com/OSCH2008/tcobalt), a command-line wraper for wukko's [cobalt.tools](https://cobalt.tools), which is an open-source video/audio downloader for many services, without any ads, trackers, or SEO exploitation.
 
 One thing I struggle with is asking for help.
 
