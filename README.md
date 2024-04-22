@@ -4,7 +4,7 @@ I am `khyernet`, a 15 year old software programmer / software designer. I only d
 
 I am also a contributor to [emanfm.isso.moe](https://emanfm.isso.moe), a "radio station" for the ULTRAKILL youtuber [Emancipation](https://www.youtube.com/@emancipationvevo), since I worked on 99% of the frontend.
 
-I am currently working on [tcobalt](https://github.com/OSCH2008/tcobalt), a command-line wrapper for wukko's [cobalt.tools](https://cobalt.tools), which is an open-source video/audio downloader for many services, without any ads, trackers, or SEO exploitation.
+I am currently working on [tcobalt](https://github.com/OSCH2008/tcobalt), a command-line wrapper for wukko's [cobalt.tools](https://cobalt.tools), which is an open-source video/audio downloader for many services, without any ads, trackers, or SEO exploitation. tcobalt is currently available in the AUR for Arch Linux.
 
 One thing I struggle with is asking for help.
 
