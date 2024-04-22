@@ -13,6 +13,7 @@ One thing I struggle with is asking for help.
 You can reach me using these methods:
 * Discord: khyernet <img src="https://github.com/OSCH2008/OSCH2008/blob/main/meth.png" style="width: 14px;">
 * Twitter: @OSCH2008 <img src="https://github.com/OSCH2008/OSCH2008/blob/main/meth.png" style="width: 14px;">
+* eMail: <khyernet@vivaldi.net> <img src="https://github.com/OSCH2008/OSCH2008/blob/main/meth.png" style="width: 14px;">
 
 My main projects are listed below
 
