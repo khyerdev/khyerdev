@@ -10,5 +10,5 @@ One thing I struggle with is asking for help.
 
 You can reach me using these methods:
 * Discord: khyernet <img src="https://github.com/khyerdev/khyerdev/blob/main/meth.png" style="width: 14px;">
-* Twitter: @khyernet <img src="https://github.com/khyerdev/khyerdev/blob/main/meth.png" style="width: 14px;">
+* Bluesky: @khyernet.bsky.social <img src="https://github.com/khyerdev/khyerdev/blob/main/meth.png" style="width: 14px;">
 * eMail: <khyernet@vivaldi.net> <img src="https://github.com/khyerdev/khyerdev/blob/main/meth.png" style="width: 14px;">
