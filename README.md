@@ -4,7 +4,7 @@ I am `khyernet`, a 16 year old software programmer / software designer. I only d
 
 I own the domains [khyernet.xyz](https://khyernet.xyz) and [khyer.dev](https://khyer.dev), they were given to me as a birthday gift. You should check out my website by clicking on either of the links.
 
-One thing I struggle with is asking for help.
+One thing I struggle with is asking for help and talking to others in general.
 
 <img src="https://github.com/khyerdev/khyerdev/blob/main/meth.png" style="width: 50px;"> <img src="https://github.com/khyerdev/khyerdev/blob/main/evil_meth.png" style="width: 50px;">
 
